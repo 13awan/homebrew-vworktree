@@ -1,6 +1,6 @@
 cask "v-work-tree" do
-  version "1.0"
-  sha256 "c629c5c903836423a2b9a74d043d9c40bdc9befb89f50d8d615f8af5783b5952"
+  version "1.1.0"
+  sha256 "fa3b646e05d096e63dd0e4066c4cb2eef8c20a163dbae8fe349d1634291117b0"
 
   url "https://github.com/13awan/homebrew-vworktree/raw/main/releases/download/v#{version}/vWorkTree.zip"
   name "vWorkTree"
